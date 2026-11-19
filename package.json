@@ -1,0 +1,12 @@
+{
+  "name": "dubai-time",
+  "version": "1.0.0",
+  "description": "Simple web app showing current time in Dubai",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
